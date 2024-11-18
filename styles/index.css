@@ -25,18 +25,25 @@ body {
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
+    /* gap: 15px; */
     justify-content: space-between;
     align-items: center;
-    padding: 3%;
+    padding: 15px;
     height: 450px;   
     text-align: center; 
 }
 
 .qr-card-container img {
     width: 100%;
+    height: 250px;
     border-radius: 10px;
 }
 
 .qr-card-container h3{
-    font-size: 15px;
+    font-size: 1.7rem;
+}
+
+.qr-card-container p {
+    color: #777;
+    font-size: 1.2rem;
 }
