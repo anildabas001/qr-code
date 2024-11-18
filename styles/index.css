@@ -19,13 +19,13 @@ body {
 
 .qr-card-container {
     min-width: 15%;
-    max-width: 300px;
+    max-width: 290px;
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
     gap: 15px;    
     padding: 15px;
-    height: 475px;       
+    height: 470px;       
 }
 
 .qr-card-container .text-container {
@@ -35,7 +35,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width:85%;
+    width:94%;
     gap: 20px;
 }
 
