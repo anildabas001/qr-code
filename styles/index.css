@@ -19,7 +19,7 @@ body {
 
 .qr-card-container {
     min-width: 10%;
-    max-width: 250px;
+    max-width: 350px;
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
@@ -28,7 +28,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 3%;
-    height: 380px;   
+    height: 480px;   
     text-align: center; 
 }
 
